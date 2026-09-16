@@ -21,8 +21,8 @@ Accept-Encoding: gzip, deflate, br
 Connection: keep-alive
 
 [
-  "mr.robot",
-  "",
+  "user",
+  "password",
   [["rustshop flag", 270441]],
   322376503
 ]
