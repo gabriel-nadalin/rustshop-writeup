@@ -3,7 +3,7 @@
 ## Requisição
 ```
 POST /api/register HTTP/1.1
-Host: localhost:8070
+Host: localhost:1337
 Content-Length: 67
 sec-ch-ua-platform: "Linux"
 Accept-Language: en-US,en;q=0.9
@@ -21,7 +21,7 @@ Accept-Encoding: gzip, deflate, br
 Connection: keep-alive
 
 [
-  "user",
+  "username",
   "password",
   [["rustshop flag", 270441]],
   322376503
